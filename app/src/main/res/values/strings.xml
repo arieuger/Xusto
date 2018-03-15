@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Xusto</string>
+    <string name="tabSpecTenda">Tendas</string>
+    <string name="tabSpecProduto">Produtos</string>
+</resources>
